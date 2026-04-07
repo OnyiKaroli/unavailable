@@ -71,8 +71,8 @@ export default function UnavailablePage() {
         <div className="mt-16 pt-8 border-t border-slate-800">
           <p className="text-slate-500 text-sm">
             Questions? Contact us at{" "}
-            <a href="mailto:support@karolih.com" className="text-blue-400 hover:text-blue-300 transition-colors">
-              support@karolih.com
+            <a href="mailto:support@cofeengineering.com" className="text-blue-400 hover:text-blue-300 transition-colors">
+              support@cofeengineering.com
             </a>
           </p>
         </div>
